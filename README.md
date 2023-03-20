@@ -1,5 +1,6 @@
 # OCR_FOR_BUISNESSCARD
 Optical Character Recognition For Buisnesscard (Flask Application)
+Intelligently extracting the text from the Buisnesscard using NER (named entity recongnition model ).
 
 
 ![image](https://user-images.githubusercontent.com/80156819/226241530-00a6e556-3eb9-4379-b2e8-100f059c624b.png)
